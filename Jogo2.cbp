@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Jogo2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Jogo2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Jogo2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="classes/background.cpp" />
+		<Unit filename="classes/background.h" />
+		<Unit filename="classes/lista(objects).cpp" />
+		<Unit filename="classes/lista(objects).h" />
+		<Unit filename="classes/lista(template).cpp" />
+		<Unit filename="classes/lista(template).h" />
+		<Unit filename="classes/node.cpp" />
+		<Unit filename="classes/node.h" />
+		<Unit filename="classes/object.h" />
+		<Unit filename="classes/objects.cpp" />
+		<Unit filename="executation/beginscreen.cpp" />
+		<Unit filename="executation/congratulationsscreen.cpp" />
+		<Unit filename="executation/executation(main).cpp" />
+		<Unit filename="executation/gameoverscreen.cpp" />
+		<Unit filename="executation/gamescreen.cpp" />
+		<Unit filename="executation/instructionsscreen.cpp" />
+		<Unit filename="executation/states.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

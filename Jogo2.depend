@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1498703950 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\background.cpp
+	"background.h"
+
+1498694953 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\background.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1498689373 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\lista(objects).cpp
+	"node.h"
+	"lista(objects).h"
+	<cstddef>
+
+1498688207 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\node.h
+
+1498688531 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\lista(objects).h
+	"lista(template).h"
+	"object.h"
+
+1498625174 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\lista(template).h
+	"node.h"
+
+1498689925 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\object.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+
+1498689617 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\lista(template).cpp
+	"lista(template).h"
+	<cstddef>
+
+1498689470 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\node.cpp
+	"node.h"
+	"object.h"
+	<cstddef>
+
+1498689920 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\objects.cpp
+	"object.h"
+
+1498668809 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\position.cpp
+
+1498096276 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\classes\position.cpp
+
+1498704373 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\beginscreen.cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_native_dialog.h>
+	"background.h"
+
+1498023088 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\congratulationsscreen.cpp
+	<allegro5/allegro.h>
+
+1498104043 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\executation(main).cpp
+	<allegro5/allegro.h>
+	<allegro5/allegro_native_dialog.h>
+	"states.h"
+
+1498102605 c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\states.h
+
+1498023095 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\gameoverscreen.cpp
+	<allegro5/allegro.h>
+
+1498023102 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\gamescreen.cpp
+	<allegro5/allegro.h>
+
+1498023109 source:c:\users\bortozikaboy\documents\ufscar\2017-1\ed\jogo-2\jogo2\executation\instructionsscreen.cpp
+	<allegro5/allegro.h>
+
